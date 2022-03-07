@@ -14,7 +14,7 @@ main {
 	clear: left;
 }
 
-main h2 a:hover {
+a:hover {
 	font-style: italic;
 }
 
