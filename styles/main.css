@@ -14,4 +14,8 @@ main {
 	clear: left;
 }
 
+main h2 a:hover {
+	font-style: italic;
+}
+
 /* the styles for the footer */
